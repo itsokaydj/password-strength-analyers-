@@ -5,6 +5,9 @@ The **Password Strength Analyzer** is a Python-based application designed to eva
 
 ---
 
+![image](https://github.com/user-attachments/assets/4e2eba7e-98ea-4731-a19f-475484cf5673)
+
+
 ## Features
 1. **Password Strength Analysis**:
    - Evaluates passwords based on criteria like length, character diversity, and the inclusion of special characters.
